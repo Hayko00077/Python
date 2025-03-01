@@ -1,7 +1,7 @@
 # Write a program that prompts the user to create an empty list.
 # Then, the user should be able to add elements to the list using three different methods: 
 # append(), extend(), and insert().
-
+##########
 ls = []
 ls.append(4)
 ls.extend([1, 2, 3])
